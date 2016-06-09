@@ -1,0 +1,4 @@
+CHANGED,D:\developpement\takepicture\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tag\photocaptureandgallery\MainActivity$2$override.class
+CHANGED,D:\developpement\takepicture\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\developpement\takepicture\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tag\photocaptureandgallery\MainActivity$override.class
+CHANGED,D:\developpement\takepicture\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tag\photocaptureandgallery\MainActivity$1$override.class
